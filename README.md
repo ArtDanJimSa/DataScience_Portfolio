@@ -3,6 +3,7 @@
 Hello, I am Arturo Jiménez.
 
 Physicist and Data Scientist/Analyst.
+
 [linkedin]
 
 This is my professional repository where I showcase the projects I've worked on throughout my academic and professional career. Due to confidentiality and security agreements with the organizations I've collaborated with, in some cases, I cannot include databases or specific code snippets.
@@ -49,6 +50,7 @@ In the "Data visualization and data mining" folder, you will find screenshots of
 Hola, soy Arturo Jiménez.
 
 Físico y Científico/Analista de Datos.
+
 [linkedin]
 
 Este es mi repositorio profesional, donde comparto los proyectos en los que he trabajado a lo largo de mi carrera, tanto académica como profesional. Debido a compromisos de confidencialidad y seguridad con las entidades para las que he trabajado, en algunos casos no puedo adjuntar bases de datos o fragmentos específicos de código.
@@ -92,8 +94,5 @@ Los dashboards presentados en esta sección tienen como objetivo mostrar las ten
 Se incluyen ejemplos de código utilizados para la extracción de información en dos casos: un directorio de tiendas de supermercados y una de las páginas scrapeadas para el análisis del mercado inmobiliario.
 
 
-
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. 
 
    [linkedin]: <www.linkedin.com/in/arturojimenez0>
