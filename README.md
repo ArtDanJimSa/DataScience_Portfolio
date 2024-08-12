@@ -1,9 +1,8 @@
 # Professional Portfolio
 
-<center>Hello, I am Arturo Jiménez. [linkedin]
+Hello, I am Arturo Jiménez.    [linkedin]
 
 Physicist and Data Scientist/Analyst.
-.</center>
 
 This is my professional repository where I showcase the projects I've worked on throughout my academic and professional career. Due to confidentiality and security agreements with the organizations I've collaborated with, in some cases, I cannot include databases or specific code snippets.
 ### Description
@@ -46,7 +45,7 @@ In the "Data visualization and data mining" folder, you will find screenshots of
   This section includes code examples used for data extraction in two cases: a supermarket store directory and one of the pages scraped for real estate market analysis.
 
 --------------------------
-Hola, soy Arturo Jiménez.[linkedin]
+Hola, soy Arturo Jiménez.      [linkedin]
 
 Físico y Científico/Analista de Datos.
 
@@ -92,5 +91,4 @@ Los dashboards presentados en esta sección tienen como objetivo mostrar las ten
 Se incluyen ejemplos de código utilizados para la extracción de información en dos casos: un directorio de tiendas de supermercados y una de las páginas scrapeadas para el análisis del mercado inmobiliario.
 
 
-
-   [linkedin]: <www.linkedin.com/in/arturojimenez0>
+[linkedin]: <www.linkedin.com/in/arturojimenez0>
