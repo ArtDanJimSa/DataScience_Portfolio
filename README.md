@@ -1,6 +1,7 @@
 # Professional Portfolio
 
 Hello, I am Arturo Jiménez.
+
 Physicist and Data Scientist/Analyst.
 [linkedin]
 
@@ -46,6 +47,7 @@ In the "Data visualization and data mining" folder, you will find screenshots of
 
 --------------------------
 Hola, soy Arturo Jiménez.
+
 Físico y Científico/Analista de Datos.
 [linkedin]
 
