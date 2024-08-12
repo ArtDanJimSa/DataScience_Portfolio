@@ -46,10 +46,12 @@ In the "Data visualization and data mining" folder, you will find screenshots of
   This section includes code examples used for data extraction in two cases: a supermarket store directory and one of the pages scraped for real estate market analysis.
 
 --------------------------
-Hola, soy Arturo Jiménez.      [linkedin]
 
-Físico y Científico/Analista de Datos.
-
+<div align="center">
+  <h1>Hola, soy Arturo Jiménez.</h1>
+  <p>Físico y Científico/Analista de Datos.</p>
+  <p><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></p>
+</div>
 
 Este es mi repositorio profesional, donde comparto los proyectos en los que he trabajado a lo largo de mi carrera, tanto académica como profesional. Debido a compromisos de confidencialidad y seguridad con las entidades para las que he trabajado, en algunos casos no puedo adjuntar bases de datos o fragmentos específicos de código.
 
