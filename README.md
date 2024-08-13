@@ -64,13 +64,13 @@ In the "Statistical and ML models" folder, you will find the Python scripts in J
 
 In the "Data visualization and data mining" folder, you will find screenshots of some Business Intelligence dashboards I have collaborated on, organized into folders according to the project they belong to.
 
-- **Municipal Success Rating of the Restaurant Industry**  
+- :bar_chart: **Municipal Success Rating of the Restaurant Industry**  
   This section showcases dashboards generated from the business success forecasting model, at both the national and state levels.
 
-- **Real Estate Market / Mercado Inmobiliario**  
+- :house: **Real Estate Market / Mercado Inmobiliario**  
   The dashboards presented here aim to display real estate market trends, using data from the TOP 5 real estate websites. This includes quintile analysis, clustering, and geolocation of properties.
 
-- **Webscraping**  
+- :computer: **Webscraping**  
   This section includes code examples used for data extraction in two cases: a supermarket store directory and one of the pages scraped for real estate market analysis.
 
 --------------------------
@@ -140,13 +140,13 @@ Redes neuronales convolucionales y generación de imágenes sintéticas con GANs
 
 En la carpeta "Data visualization and data mining" encontrarás capturas de pantallas de algunos Business Intelligence dashboards en los que he colaborado, organizadas en carpetas según el proyecto al que pertenecen.
 
-- **Municipal Success Rating of the Restaurant Industry**
+- :bar_chart: **Municipal Success Rating of the Restaurant Industry**
 Aquí se muestran los dashboards generados a partir del modelo de pronóstico de éxito de negocios, a nivel nacional y estatal.
 
-- **Real Estate Market / Mercado Inmobiliario**
+- :house: **Real Estate Market / Mercado Inmobiliario**
 Los dashboards presentados en esta sección tienen como objetivo mostrar las tendencias del mercado inmobiliario, utilizando datos de los TOP 5 sitios web de venta de inmuebles. Se incluye un análisis de quintiles, clusterización y geolocalización de las propiedades.
 
-- **Webscraping**
+- :computer: **Webscraping**
 Se incluyen ejemplos de código utilizados para la extracción de información en dos casos: un directorio de tiendas de supermercados y una de las páginas scrapeadas para el análisis del mercado inmobiliario.
 
 
