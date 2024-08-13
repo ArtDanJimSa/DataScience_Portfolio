@@ -114,29 +114,29 @@ Este es mi repositorio profesional, donde comparto los proyectos en los que he t
 ### Descripción
 En la carpeta "Statistical and ML models" se encuentran los scripts en Python en formato Jupyter Notebook (.ipynb) utilizados para cada proyecto. El archivo README de cada proyecto contiene una explicación detallada de las herramientas empleadas y su ejecución. Los proyectos destacados en este repositorio son:
 
-- **Análisis de Sentimientos en Tweets sobre la Vacuna COVID-19: Caso Perú 2021**
-Aplicación de procesamiento de lenguaje natural (NLP) para analizar el sentimiento en redes sociales respecto a las vacunas contra COVID-19.
-
-- **Predicción de Venta de Boletos para un Estadio de Béisbol**
-Modelos de regresión en Machine Learning para pronosticar la demanda de boletos para futuros eventos.
-
-- **Pronóstico de Ventas de Productos Apple con Series de Tiempo**
-Implementación de características de retardo (lag features) y modelos de ML para analizar tendencias de ventas.
-
-- **Mantenimiento Predictivo de Maquinaria Industrial**
-Ingeniería de características aplicada a la predicción del desgaste y fallos en equipos industriales.
-
-- **Detección Automática del Tránsito Vehicular en Carreteras con Computer Vision**
-Utilización de YOLOV5 y YOLOV8 (You Only Look Once) para la detección en tiempo real de vehículos y tener información del transito vehicular en la zona.
-
-- **Diagnóstico Automático de Displasia de Cadera en Radiografías**
-Redes neuronales convolucionales y generación de imágenes sintéticas con GANs para mejorar la precisión diagnóstica.
-
-- **Diagnóstico Automático de Cáncer de Mama en Radiografías**
+- :computer: **Diagnóstico Automático de Cáncer de Mama en Radiografías**
 Comparativa de arquitecturas de redes neuronales convolucionales. Proyecto en colaboración con el IMSS y la Universidad de Guanajuato.
 
-- **Pronóstico de Éxito en Negocios Restauranteros**
+- :bar_chart: **Pronóstico de Éxito en Negocios Restauranteros**
 Análisis del entorno urbano para predecir el éxito o fracaso de restaurantes a nivel municipal mediante inteligencia artificial. (Incluye tanto el código como un dashboard visual en la carpeta de visualización).
+
+- :speech_balloon: **Análisis de Sentimientos en Tweets sobre la Vacuna COVID-19: Caso Perú 2021**
+Aplicación de procesamiento de lenguaje natural (NLP) para analizar el sentimiento en redes sociales respecto a las vacunas contra COVID-19.
+
+- :ticket: **Predicción de Venta de Boletos para un Estadio de Béisbol**
+Modelos de regresión en Machine Learning para pronosticar la demanda de boletos para futuros eventos.
+
+- :car: **Detección Automática del Tránsito Vehicular en Carreteras con Computer Vision**
+Utilización de YOLOV5 y YOLOV8 (You Only Look Once) para la detección en tiempo real de vehículos y tener información del transito vehicular en la zona.
+
+- :chart_with_upwards_trend: **Pronóstico de Ventas de Productos Apple con Series de Tiempo**
+Implementación de características de retardo (lag features) y modelos de ML para analizar tendencias de ventas.
+
+- :wrench: **Mantenimiento Predictivo de Maquinaria Industrial**
+Ingeniería de características aplicada a la predicción del desgaste y fallos en equipos industriales.
+
+- :computer: **Diagnóstico Automático de Displasia de Cadera en Radiografías**
+Redes neuronales convolucionales y generación de imágenes sintéticas con GANs para mejorar la precisión diagnóstica.
 
 En la carpeta "Data visualization and data mining" encontrarás capturas de pantallas de algunos Business Intelligence dashboards en los que he colaborado, organizadas en carpetas según el proyecto al que pertenecen.
 
