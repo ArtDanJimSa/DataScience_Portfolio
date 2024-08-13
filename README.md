@@ -140,14 +140,14 @@ Redes neuronales convolucionales y generación de imágenes sintéticas con GANs
 
 En la carpeta "Data visualization and data mining" encontrarás capturas de pantallas de algunos Business Intelligence dashboards en los que he colaborado, organizadas en carpetas según el proyecto al que pertenecen.
 
-- :bar_chart: **Municipal Success Rating of the Restaurant Industry**
+- :bar_chart: **Pronóstico de éxito de negocios restauranteros a nivel municipal**
 Aquí se muestran los dashboards generados a partir del modelo de pronóstico de éxito de negocios, a nivel nacional y estatal.
 
-- :house: **Real Estate Market / Mercado Inmobiliario**
+- :house: **Mercado Inmobiliario**
 Los dashboards presentados en esta sección tienen como objetivo mostrar las tendencias del mercado inmobiliario, utilizando datos de los TOP 5 sitios web de venta de inmuebles. Se incluye un análisis de quintiles, clusterización y geolocalización de las propiedades.
 
 - :computer: **Webscraping**
-Se incluyen ejemplos de código utilizados para la extracción de información en dos casos: un directorio de tiendas de supermercados y una de las páginas scrapeadas para el análisis del mercado inmobiliario.
+Se incluyen ejemplos de código utilizados para la extracción de información de la web en dos casos: un directorio de tiendas de supermercados y una de las páginas scrapeadas para el análisis del mercado inmobiliario.
 
 
 [linkedin]: <www.linkedin.com/in/arturojimenez0>
