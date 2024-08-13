@@ -2,6 +2,7 @@
 <div align="center">
   <h1>Hello, I am Arturo Jiménez.</h1>
   <p>Physicist and Data Scientist/Analyst.</p>
+  <p>Contact: ardajisa@gmail.com</p>
   <p><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></p>
 
   <h3 align="center">Languages and Tools:</h3>
@@ -78,6 +79,7 @@ In the "Data visualization and data mining" folder, you will find screenshots of
 <div align="center">
   <h1>Hola, soy Arturo Jiménez.</h1>
   <p>Físico y Científico/Analista de Datos.</p>
+  <p>Contact: ardajisa@gmail.com</p>
   <p><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></p>
 
   <h3 align="center">Languages and Tools:</h3>
