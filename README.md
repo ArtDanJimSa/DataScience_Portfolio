@@ -38,28 +38,28 @@ This is my professional repository where I showcase the projects I've worked on 
 
 In the "Statistical and ML models" folder, you will find the Python scripts in Jupyter Notebook format (.ipynb) used for each project. The README file for each project contains a detailed explanation of the tools employed and their execution. The featured projects in this repository include:
 
-- :ticket: **Automatic Diagnosis of Breast Cancer in X-Rays**  
+- :x-ray: **Automatic Diagnosis of Breast Cancer in X-Rays**  
   Comparative analysis of convolutional neural network architectures. A project in collaboration with the IMSS and the University of Guanajuato.
 
-- **Restaurant Business Success Forecasting**  
+- :restaurant: **Restaurant Business Success Forecasting**  
   Urban environment analysis to predict the success or failure of restaurants at the municipal level using artificial intelligence. (Includes both the code and a visual dashboard in the visualization folder).
   
-- **Sentiment Analysis of Tweets on the COVID-19 Vaccine: Peru 2021 Case Study**  
+- :speech_balloon: **Sentiment Analysis of Tweets on the COVID-19 Vaccine: Peru 2021 Case Study**  
   Application of Natural Language Processing (NLP) to analyze social media sentiment regarding COVID-19 vaccines.
 
-- **Ticket Sales Prediction for a Baseball Stadium**  
+- :ticket: **Ticket Sales Prediction for a Baseball Stadium**  
   Regression models in Machine Learning to forecast ticket demand for future events.
 
-- **Automatic Vehicle Traffic Detection on Highways with Computer Vision**  
+- :car: **Automatic Vehicle Traffic Detection on Highways with Computer Vision**  
   Use of YOLOV5 and YOLOV8 (You Only Look Once) for real-time vehicle detection and traffic monitoring in specific areas.
   
-- **Apple Product Sales Forecasting with Time Series Analysis**  
+- :chart_with_upwards_trend: **Apple Product Sales Forecasting with Time Series Analysis**  
   Implementation of lag features and ML models to analyze sales trends.
 
-- **Predictive Maintenance of Industrial Machinery**  
+- :wrench: **Predictive Maintenance of Industrial Machinery**  
   Feature engineering applied to predicting equipment wear and failures in industrial settings.
 
-- **Automatic Diagnosis of Hip Dysplasia in X-Rays**  
+- :x-ray: **Automatic Diagnosis of Hip Dysplasia in X-Rays**  
   Convolutional Neural Networks and synthetic image generation with GANs to improve diagnostic accuracy.
 
 In the "Data visualization and data mining" folder, you will find screenshots of some Business Intelligence dashboards I have collaborated on, organized into folders according to the project they belong to.
