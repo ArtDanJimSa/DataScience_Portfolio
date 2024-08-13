@@ -6,26 +6,26 @@ This project presents dashboards generated from a model predicting the success o
 
 **National Overview:**
 
-![Nacional](./Images/Pronóstico_Nacional.png)
+![Nacional](./Images/Pronostico_Nacional.png)
 
 **State Example: Querétaro**
 
-![Estatal](./Images/Pronóstico_Estatal.png)
+![Estatal](./Images/Pronostico_Estatal.png)
 
 ## :houses: **Real Estate Market**
 This section presents dashboards that highlight trends in the real estate market, using data from the top 5 real estate websites. The analysis includes quintiles, clustering, and geolocation of properties. The examples shown correspond to an analysis of apartments for sale in Naucalpan, State of Mexico.
 
 **Clustering and Quintile Analysis:**
 
-![General](./Images/Analítica de inmuebles.png)
+![General](./Images/Analitica_inmuebles.png)
 
 **Property Details by Cluster:**
 
-![Detalles](./Images/Detalle_de_inmuebles_por_cluster.png)
+![Detalles](./Images/Detalle_inmuebles_por_cluster.png)
 
 **Geolocation and Comparison of Urban Containment Perimeters:**
 
-![Geolocalizacion](./Images/Geolocalizacion.png)
+![Geolocalizacion](./Images/Geolocalizacion_inmuebles.png)
 
 ## :computer: **Webscraping**
 This section includes code examples used for information extraction in two cases: a directory of supermarket stores and a webpage scraped for real estate market analysis. The codes are located in the corresponding folder. It is important to note that the functionality of the code may vary depending on updates to the HTML elements in the webpage’s source code.
