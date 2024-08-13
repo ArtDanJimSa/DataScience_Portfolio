@@ -3,7 +3,7 @@
   <h1>Hello, I am Arturo Jiménez.</h1>
   <p>Physicist and Data Scientist/Analyst.</p>
   <p>Contact: ardajisa@gmail.com</p>
-  <p><a href="www.linkedin.com/in/arturojimenez0">LinkedIn</a></p>
+  <p>www.linkedin.com/in/arturojimenez0</p>
 
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
@@ -80,7 +80,7 @@ In the "Data visualization and data mining" folder, you will find screenshots of
   <h1>Hola, soy Arturo Jiménez.</h1>
   <p>Físico y Científico/Analista de Datos.</p>
   <p>Contact: ardajisa@gmail.com</p>
-  <p><a href="www.linkedin.com/in/arturojimenez0">LinkedIn</a></p>
+  <p>www.linkedin.com/in/arturojimenez0"</p>
 
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
