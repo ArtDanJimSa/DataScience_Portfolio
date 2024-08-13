@@ -38,10 +38,10 @@ This is my professional repository where I showcase the projects I've worked on 
 
 In the "Statistical and ML models" folder, you will find the Python scripts in Jupyter Notebook format (.ipynb) used for each project. The README file for each project contains a detailed explanation of the tools employed and their execution. The featured projects in this repository include:
 
-- :x-ray: **Automatic Diagnosis of Breast Cancer in X-Rays**  
+- :computer: **Automatic Diagnosis of Breast Cancer in X-Rays**  
   Comparative analysis of convolutional neural network architectures. A project in collaboration with the IMSS and the University of Guanajuato.
 
-- :restaurant: **Restaurant Business Success Forecasting**  
+- :bar_chart: **Restaurant Business Success Forecasting**  
   Urban environment analysis to predict the success or failure of restaurants at the municipal level using artificial intelligence. (Includes both the code and a visual dashboard in the visualization folder).
   
 - :speech_balloon: **Sentiment Analysis of Tweets on the COVID-19 Vaccine: Peru 2021 Case Study**  
@@ -59,7 +59,7 @@ In the "Statistical and ML models" folder, you will find the Python scripts in J
 - :wrench: **Predictive Maintenance of Industrial Machinery**  
   Feature engineering applied to predicting equipment wear and failures in industrial settings.
 
-- :x-ray: **Automatic Diagnosis of Hip Dysplasia in X-Rays**  
+- :computer: **Automatic Diagnosis of Hip Dysplasia in X-Rays**  
   Convolutional Neural Networks and synthetic image generation with GANs to improve diagnostic accuracy.
 
 In the "Data visualization and data mining" folder, you will find screenshots of some Business Intelligence dashboards I have collaborated on, organized into folders according to the project they belong to.
