@@ -23,7 +23,7 @@
   The final goal of this project was to use a fixed camera installed on a highway to count and analyze the vehicles passing through that segment, evaluating traffic in the area from both a structural and traffic perspective. YOLO models and an implementation were used to perform accurate counting.  
   **File:** Computer Vision - Vehicle Detection with YOLOv5, Computer Vision - Vehicle Detection with YOLOv8 Roboflow
 
-![Detection](./prediction_YOLOV5.png)
+![Detection](./prediction_YOLOV5.jpg)
 
 - **:chart_with_upwards_trend: Apple Product Sales Forecasting with Time Series**  
   Using open data from Apple, time series and lag features were used to predict future market trends in sales.  
@@ -62,7 +62,7 @@ Archivo: Baseball Ticket Sales Prediction
 El objetivo final de este proyecto fue utilizar una cámara fija instalada en una carretera para hacer un conteo y análisis de los vehículos que transitan sobre dicho tramo, evaluando el tráfico en la zona con un enfoque estructural y de tránsito. Para ello, se usaron modelos YOLO y una implementación para realizar el conteo adecuado.
 Archivo: Computer Vision - Vehicle Detection with YOLOv5, Computer Vision - Vehicle Detection with YOLOv8 Roboflow
 
-![Detection](./prediction_YOLOV5.png)
+![Detection](./prediction_YOLOV5.jpg)
 
 - **:chart_with_upwards_trend: Pronóstico de Ventas de Productos Apple con Series de Tiempo**
 Usando datos abiertos de Apple, se utilizaron series de tiempo y lag features para realizar una predicción sobre tendencias de mercado futuras en materia de ventas.
