@@ -17,7 +17,7 @@ This section presents dashboards that highlight trends in the real estate market
 
 **Clustering and Quintile Analysis:**
 
-![General](./Images/Analítica_de_inmuebles.png)
+![General](./Images/Analítica de inmuebles.png)
 
 **Property Details by Cluster:**
 
