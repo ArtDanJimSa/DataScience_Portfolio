@@ -38,7 +38,7 @@ This is my professional repository where I showcase the projects I've worked on 
 
 In the "Statistical and ML models" folder, you will find the Python scripts in Jupyter Notebook format (.ipynb) used for each project. The README file for each project contains a detailed explanation of the tools employed and their execution. The featured projects in this repository include:
 
-- ![Sentiment Analysis](https://img.icons8.com/ios-filled/50/000000/analysis.png) **Automatic Diagnosis of Breast Cancer in X-Rays**  
+- :ticket: **Automatic Diagnosis of Breast Cancer in X-Rays**  
   Comparative analysis of convolutional neural network architectures. A project in collaboration with the IMSS and the University of Guanajuato.
 
 - **Restaurant Business Success Forecasting**  
